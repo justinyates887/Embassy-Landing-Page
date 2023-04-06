@@ -747,6 +747,7 @@ features
 .features-small-item {
   cursor: pointer;
   display: block;
+  height: 25rem;
   background: #FFFFFF;
   box-shadow: 0 2px 48px 0 rgba(0, 0, 0, 0.10);
   -webkit-border-radius: 20px;
@@ -1309,6 +1310,7 @@ blog
 */
 .blog-post-thumb {
   text-align: center;
+  height: 30rem;
   margin-bottom: 30px;
 }
 
