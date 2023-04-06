@@ -747,7 +747,7 @@ features
 .features-small-item {
   cursor: pointer;
   display: block;
-  height: 25rem;
+  height: 25rem !important;
   background: #FFFFFF;
   box-shadow: 0 2px 48px 0 rgba(0, 0, 0, 0.10);
   -webkit-border-radius: 20px;
