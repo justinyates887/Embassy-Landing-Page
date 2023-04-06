@@ -908,6 +908,7 @@ parallax & home seperator
 
 .mini .mini-content .mini-box {
   display: block;
+  height: 9rem;
   background: #fff;
   padding: 20px;
   border-radius: 20px;
